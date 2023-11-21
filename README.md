@@ -57,6 +57,3 @@ The project is structured into two main components:
 - **Angular**: For Angular CLI help, use `ng help` or visit the [Angular CLI Overview and Command Reference](https://angular.io/cli).
 - **.NET Core**: For .NET Core CLI help, use `dotnet --help` or visit the [.NET Core CLI documentation](https://docs.microsoft.com/en-us/dotnet/core/tools/).
 
----
-
-Feel free to modify or expand upon this template to better suit your project's specific needs and characteristics.
