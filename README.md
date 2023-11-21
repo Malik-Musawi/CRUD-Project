@@ -1,6 +1,6 @@
 # CRUD-Project: Full Stack Application
 
-This project is a comprehensive full stack application developed as part of the INFO 3070 (Client Server) class at Fanshawe College. It showcases a unique implementation approach, integrating Angular, Docker MSSQL, and JetBrains Rider for various development aspects.
+This project is a comprehensive full stack application developed as part of the INFO 3070 (Client Server) class at Fanshawe College. It showcases a unique implementation approach, integrating Angular, Docker MSSQL, and JetBrains Rider to emplifies a robust full stack CRUD (Create, Read, Update, Delete) application. It combines cutting-edge technologies and practices to provide a comprehensive learning experience in web development..
 
 ## Project Structure
 
